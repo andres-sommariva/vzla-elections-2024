@@ -12,4 +12,7 @@ public class ScanResult {
     private Boolean isSuccess;
     private String errorMessage;
 
+    public String getQrCodeText() {
+        return (qrCodeText != null) ? qrCodeText : "";
+    }
 }
