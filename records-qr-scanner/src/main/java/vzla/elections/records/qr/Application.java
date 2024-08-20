@@ -59,7 +59,7 @@ public class Application {
 
         printScanResults(scanResults);
         printProcessorResults(processResult);
-        dumpErrors(scanResults);
+        //dumpErrors(scanResults);
     }
 
     private static void printScanResults(List<ScanResult> scanResults) {
