@@ -41,7 +41,7 @@ Files processed:   25066
 ```
 
 It took ~22 minutes to process 25.066 QR codes in my old laptop (Intel® Core™ i5-3210M CPU @ 2.50GHz × 4),
-using the BoofCV reader, which was able to process successfully 92.65% of the images.
+using the BoofCV[^2] reader, which was able to process successfully 92.65% of the images.
 
 ## Other content in the repository
 
@@ -54,4 +54,5 @@ to get the URls.
 
 ---
 
-[^1]: Downloaded from https://resultadosconvzla.com/.
+[^1]: Downloaded from https://resultadosconvzla.com/
+[^2]: https://boofcv.org/
